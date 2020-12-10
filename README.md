@@ -1,5 +1,5 @@
 # azure_well-architected-framework
-azure_well-architected-framework. 
+my conf session & slides: azure_well-architected-framework. 
 
 Session Video recording: 
 https://www.youtube.com/watch?v=MjtF0JNd6L8&ab_channel=AzConfDev
