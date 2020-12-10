@@ -1,7 +1,7 @@
 # azure_well-architected-framework
 my conf session & slides: azure_well-architected-framework. 
 
-Session Video recording: 
+Session recording: 
 https://www.youtube.com/watch?v=MjtF0JNd6L8&ab_channel=AzConfDev
 alternate: https://www.youtube.com/watch?v=iGfa6rXFXIc&feature=youtu.be&ab_channel=AbhilashKL
 
